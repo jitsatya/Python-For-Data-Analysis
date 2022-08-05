@@ -7,11 +7,6 @@ input(prompt = "Name: ")
 ```
 
     Name: Satyajit
-
-
-
-
-
     'Satyajit'
 
 
@@ -145,7 +140,7 @@ list('hello')
 
 
 
-type conversion is not parmanent
+Type conversion is not parmanent
 
 
 ```python
